@@ -1,3 +1,3 @@
 # reaction-time-game
-I made this reaction time game as a freshman in highschool (I'm a junior in early college now) as part of the AP CSP create task This was made in python in CMU cs academy
+Reaction time game involving clicking fast moving objects and a method to win/lose points for general enthusiasts, the elderly, and anyone looking to test their brain! Made in CMU CS academy (early 2023), with Python
 Izzat
